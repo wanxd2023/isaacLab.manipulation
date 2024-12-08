@@ -122,7 +122,7 @@ python3 scripts/rsl_rl/train.py --task Template-Isaac-Repose-Cube-Allegro-v0 --n
 
 5.1 RobotArm
 ```bash
-python3 scripts/rsl_rl/play.py --task Template-Isaac-Reach-Kinova-Play-v0--num_envs 16
+python3 scripts/rsl_rl/play.py --task Template-Isaac-Reach-Kinova-Play-v0 --num_envs 16
 ```
 ```bash
 # You can also use train.py if you dont need to add some additional configs.
