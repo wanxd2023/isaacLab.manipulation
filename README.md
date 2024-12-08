@@ -76,7 +76,7 @@ python3 scripts/tools/convert_urdf.py urdf/your_urdf.urdf usd/your_usd.usd
 ```
 ### 2. Set up your robot or objects
 ```bash
-cd isaacLab.manipulation/isaacLab/manipulation/assets/config
+cd isaacLab/manipulation/assets/config
 touch your_robot.py
 # kinova_gipper.py is an example. You can copy the file and change robot_usd = "kinova_robotiq.usd" to your own usd and apply some changes in ArticulationCfg 
 ```
