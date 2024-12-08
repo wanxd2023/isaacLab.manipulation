@@ -102,7 +102,7 @@ parse_env_cfg(args_cli.task, use_gpu=not args_cli.cpu, num_envs=args_cli.num_env
 ```
 
 ### 4. Train a policy.
-cd ~Wanxd/IsaacLab/isaacLab.manipulation
+cd ~/Wanxd/IsaacLab/isaacLab.manipulation
 
 4.1 RobotArm
 ```bash
